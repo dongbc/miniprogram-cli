@@ -1,0 +1,21 @@
+{
+  "name": "miniprogram-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "dong": "bin/cli.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.2.0",
+    "log-symbols": "^4.0.0",
+    "ora": "^4.0.4"
+  },
+  "description": "dong self node cli",
+  "repository": "https://github.com/dongbc/miniprogram-cli",
+  "author": "dong"
+}
